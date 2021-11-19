@@ -4,6 +4,7 @@ module.exports = {
             name: 'db',
             path: 'free-be-mongodb'
         },
+        'demo'
     ],
     db: {
         autoCreateIndexes: true,
