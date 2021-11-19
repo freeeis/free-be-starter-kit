@@ -1,0 +1,11 @@
+/public
+node_modules
+/logs
+nohup.out
+.idea
+.vscode
+!.eslintrc.json
+.nyc_output
+/config/config.bundle.js
+/bin/www_bundle.js
+/modules/bundle
