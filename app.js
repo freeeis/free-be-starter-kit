@@ -1,12 +1,8 @@
 const express = require('express');
 const core = require('free-be-core');
 
-const builder = require('./free/builder');
-
 // create the app
 const app = express();
-
-Object.assign(app, { freeBuilder: builder });
 
 // hook: onBegin(app)
 core.onBegin(app);
