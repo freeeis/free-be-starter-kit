@@ -13,3 +13,4 @@ nohup.out
 # !!TODO:!! please remove following lines to enable customized modules
 /modules
 /free
+/.gitmodules
