@@ -4,6 +4,15 @@ const core = require('free-be-core');
 // create the app
 const app = express();
 
+let builder = {};
+
+try {
+    builder = require('./free/builder');
+    Object.assign(app, { freeBuilder: builder });
+} catch(_) {
+    //
+}
+
 // hook: onBegin(app)
 core.onBegin(app);
 

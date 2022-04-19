@@ -1,5 +1,5 @@
 # free-be-starter-kit
-This is the starter kit for the FREE system backend. All FREE backend modules should be used based on this project.
+This is the starter kit for the FreeEIS system backend. All FreeEIS backend modules should be used based on this project.
 
 # Database
 Before using this starter kit, please make sure the mongodb was installed on your system.

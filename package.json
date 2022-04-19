@@ -1,7 +1,7 @@
 {
   "name": "free-be-starter-kit",
   "version": "0.0.7",
-  "description": "The starter kit for the FREE BE system.",
+  "description": "The starter kit for the FreeEIS BE system.",
   "private": false,
   "author": "zhiquan",
   "license": "GPL-1.0-or-later",
@@ -22,9 +22,6 @@
     "csv": "^5.5.3",
     "excel-export": "^0.5.1",
     "express": "~4.17.1",
-    "free-be-core": "https://github.com/freeeis/free-be-core.git",
-    "free-be-demo": "https://github.com/freeeis/free-be-demo.git",
-    "free-be-mongodb": "https://github.com/freeeis/free-be-mongodb.git",
     "fs-extra": "^10.0.0",
     "iconv-lite": "^0.6.3",
     "multer": "^1.4.3",

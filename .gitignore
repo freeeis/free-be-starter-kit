@@ -9,3 +9,7 @@ nohup.out
 /config/config.bundle.js
 /bin/www_bundle.js
 /modules/bundle
+
+# !!TODO:!! please remove following lines to enable customized modules
+/modules
+/free
