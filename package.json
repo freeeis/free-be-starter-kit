@@ -16,7 +16,9 @@
   },
   "dependencies": {
     "express": "~4.18.2",
+    "free-be-account": "^0.0.1",
     "free-be-core": "^0.0.2",
+    "free-be-core-modules": "^0.0.1",
     "free-be-demo": "^0.0.1",
     "free-be-mongodb": "^0.0.1"
   },
