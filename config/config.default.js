@@ -1,3 +1,13 @@
+/*
+ * @Description: Default global config file, all the configs here will be overwriten by the 
+ * configurations for the specific env.
+ * 
+ * @Author: zhiquan <x.zhiquan@gmail.com>
+ * @Date: 2021-08-03 09:09:24
+ * @LastEditTime: 2023-03-07 15:03:49
+ * @LastEditors: zhiquan
+ */
+
 const path = require('path');
 
 module.exports = {

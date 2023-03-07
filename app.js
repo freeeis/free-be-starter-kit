@@ -1,17 +1,19 @@
+/*
+ * @Description: 入口文件。
+ * 启动free内核，启动app，调用钩子函数。
+ * 如果数据没有启动完成，等待。
+ * 
+ * @Author: zhiquan <x.zhiquan@gmail.com>
+ * @Date: 2022-04-19 16:44:52
+ * @LastEditTime: 2023-03-07 14:43:19
+ * @LastEditors: zhiquan
+ */
+
 const express = require('express');
 const core = require('free-be-core');
 
 // create the app
 const app = express();
-
-let builder = {};
-
-try {
-    builder = require('./free/builder');
-    Object.assign(app, { freeBuilder: builder });
-} catch(_) {
-    //
-}
 
 // hook: onBegin(app)
 core.onBegin(app);
@@ -35,9 +37,8 @@ if (app.db) {
             // hook: onLoadRouters(app)
             core.onLoadRouters(app);
 
-            core.loadRouters(app);
-
             // load routers from modules
+            core.loadRouters(app);
 
             // hook: onRoutersReady(app)
             core.onRoutersReady(app);
@@ -50,9 +51,8 @@ if (app.db) {
     // hook: onLoadRouters(app)
     core.onLoadRouters(app);
 
-    core.loadRouters(app);
-
     // load routers from modules
+    core.loadRouters(app);
 
     // hook: onRoutersReady(app)
     core.onRoutersReady(app);
