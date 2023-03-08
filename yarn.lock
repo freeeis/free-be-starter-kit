@@ -1563,10 +1563,10 @@ free-be-core@^0.0.2:
     morgan "^1.9.1"
     winston "^3.1.0"
 
-free-be-demo@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/free-be-demo/-/free-be-demo-0.0.1.tgz#b8974773cfde1749acd831201e2710b3fc8043f3"
-  integrity sha512-E7n2RlNOwqxOyP/JQSql3HWPA8ovN3hh+KrFWzbYNm64uoHce0kCUSrJCbVqUQ/EoLzm2Qbw0JlOpdspreW9Tw==
+free-be-demo@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/free-be-demo/-/free-be-demo-0.0.2.tgz#259081301125a9545f266081331c4e2ed63e0f3c"
+  integrity sha512-8sMuDxQPOLV7CpkTIaLam7+ecLEVSjRMucAutr60yZSAOiL4LhiNxK6/FTKb/LJNlW0Lj+UUQ4Oi8RlpK0N6iw==
 
 free-be-mongodb@^0.0.1:
   version "0.0.1"
