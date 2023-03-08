@@ -1521,10 +1521,10 @@ frac@~1.1.2:
   resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
   integrity sha512-w/XBfkibaTl3YDqASwfDUqkna4Z2p9cFSr1aHDt0WoMTECnRfBOv2WArlZILlqgWlmdIlALXGpM2AOhEk5W3IA==
 
-free-be-account@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.1.tgz#b77798e75a509189fdf82d00f9f86c0145ada4ca"
-  integrity sha512-wWR+dxRZLcwxepb7Y2+FJc3/Kh2zXW2KzThwbLgcIyS3nQbVP+FxcFFCwNmc1XBXDjPTwpHlj+FCTNSh6w0Fig==
+free-be-account@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.2.tgz#e2dce86ce578d8065766229ed3695b9fa8f53eeb"
+  integrity sha512-vAIKCbp7wfpG3RpTxH0LUDpKqoPEFZlGcprXdvckeV7gWwjRyK+LtOMCmiKQjb+9L6MACPX/YpMhnDgNhJdDTA==
   dependencies:
     "@alicloud/pop-core" "^1.7.9"
     bcrypt "^5.0.1"
