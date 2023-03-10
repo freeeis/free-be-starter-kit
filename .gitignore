@@ -10,3 +10,5 @@ nohup.out
 # !!TODO:!! please remove following lines to enable customized modules
 /modules/*
 /.gitmodules
+
+config/config.development.js
