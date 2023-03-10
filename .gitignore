@@ -9,4 +9,5 @@ nohup.out
 
 # !!TODO:!! please remove following lines to enable customized modules
 /modules/*
+!/modules/.gitkeep
 /.gitmodules
