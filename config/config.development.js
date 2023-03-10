@@ -3,7 +3,7 @@
  *
  * @Author: zhiquan <x.zhiquan@gmail.com>
  * @Date: 2021-08-03 09:09:24
- * @LastEditTime: 2023-03-08 18:46:21
+ * @LastEditTime: 2023-03-10 16:37:57
  * @LastEditors: zhiquan
  */
 
@@ -24,8 +24,6 @@ module.exports = {
     account: {
         whiteList: [
             /^\/assets\/.*$/,
-            '/api/recover',
-            /^\/api\/register(\/.*)?$/,
         ]
     },
 }
