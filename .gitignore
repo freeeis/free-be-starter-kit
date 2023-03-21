@@ -11,3 +11,7 @@ nohup.out
 /modules/*
 !/modules/.gitkeep
 /.gitmodules
+
+
+# ignore the global key configurations which should be stored securely
+/global.js
