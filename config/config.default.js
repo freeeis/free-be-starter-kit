@@ -4,7 +4,7 @@
  * 
  * @Author: zhiquan <x.zhiquan@gmail.com>
  * @Date: 2021-08-03 09:09:24
- * @LastEditTime: 2023-03-07 15:03:49
+ * @LastEditTime: 2023-03-22 12:14:32
  * @LastEditors: zhiquan
  */
 
@@ -32,4 +32,9 @@ module.exports = {
 
     cacheTimeout: 24 * 3600 * 1000,
     cookieTimeout: 7 * 24 * 3600 * 1000,
+    
+    reqTimeout: 600 * 1000,
+    resTimeout: 600 * 1000,
+
+    MaxPageLimit: 10,
 }
