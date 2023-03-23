@@ -6,12 +6,7 @@ nohup.out
 .vscode
 !.eslintrc.json
 .nyc_output
-
-# !!TODO:!! please remove following lines to enable customized modules
-/modules/*
-!/modules/.gitkeep
-/.gitmodules
-
+.DS_Store
 
 # ignore the global key configurations which should be stored securely
 /global.js
