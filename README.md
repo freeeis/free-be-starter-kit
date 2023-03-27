@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://freeeis.aslancer.com" target="_blank">
+  <a href="https://www.freeeis.com" target="_blank">
     <img
       src="https://user-images.githubusercontent.com/33030594/227073920-03ed137f-c4f7-4ed7-ae05-d781dd1991f7.png"
       alt="FreeEIS"
@@ -22,7 +22,7 @@
 
 简体中文 | [English](https://github.com/freeeis/.github/blob/main/profile/README.en-us.md)
 
-[更多文档](https://freeeis.aslancer.com)（完善中……）
+[更多文档](https://www.freeeis.com)（完善中……）
 
 FreeEIS，是一种可扩展的、企业级系统统一开发框架。FreeEIS旨在解决越来越流行的远程协作开发中，系统拆分及组装的问题。并且通过积累越来越多的功能模块，使得系统的搭建更快捷。
 
