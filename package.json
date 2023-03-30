@@ -20,11 +20,11 @@
   },
   "dependencies": {
     "express": "~4.18.2",
-    "free-be-account": "^0.0.5",
-    "free-be-core": "^0.0.6",
-    "free-be-core-modules": "^0.0.5",
+    "free-be-account": "^0.0.6",
+    "free-be-core": "^0.0.7",
+    "free-be-core-modules": "^0.0.6",
     "free-be-demo": "^0.0.2",
-    "free-be-mongodb": "^0.0.3"
+    "free-be-mongodb": "^0.0.4"
   },
   "devDependencies": {
     "chai": "^4.3.7",

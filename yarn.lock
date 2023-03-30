@@ -1456,10 +1456,10 @@ frac@~1.1.2:
   resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
   integrity sha512-w/XBfkibaTl3YDqASwfDUqkna4Z2p9cFSr1aHDt0WoMTECnRfBOv2WArlZILlqgWlmdIlALXGpM2AOhEk5W3IA==
 
-free-be-account@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.5.tgz#a74cbd7369ce06dddd4f5d587f8e97702d406fde"
-  integrity sha512-8g3nETcemGKbSjBCer/rbCLSNbLJKRVdvvymGmCp4IvV/s5ZzeLYEVC2yaeRWS65WR0Lob2aZhJTF0nJCg8lHA==
+free-be-account@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.6.tgz#8bcf63dac2427aff86ffe88ffdbbf92a0c9ea2ee"
+  integrity sha512-Nk+aH5QjAiCGQ8iVjTTDNHAdm/U5ElccY+Hk17mm7rt43Ert3XdL3yx0LEr6RDkDCVLoQqZx6Gaay2mewYyN8g==
   dependencies:
     "@alicloud/pop-core" "^1.7.12"
     axios "^1.3.4"
@@ -1472,10 +1472,10 @@ free-be-account@^0.0.5:
     svg-captcha "^1.4.0"
     uuid "^8.3.2"
 
-free-be-core-modules@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/free-be-core-modules/-/free-be-core-modules-0.0.5.tgz#486b68acebe009d2383c6a44cb2aeb677e25a51c"
-  integrity sha512-UrXiuxCoOUBySlJ3Yl6VMJLRuA+WCDWugjzdVMUi0lze05uTbV/D0XXHtXDQnFElfsrTxQCZ+zGx+ikJ9Xt/Ig==
+free-be-core-modules@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/free-be-core-modules/-/free-be-core-modules-0.0.6.tgz#ab3997fc1ee8f842fb75eb02a68fd3b8610141b1"
+  integrity sha512-C5TGgs6/zsGxaRqiLY7xpHjMColBB4zOY+9jekIGBUTFT8QYSGaUz9Ee6sAWSFIHzeLjwfzfDyhjhgapQz2GBA==
   dependencies:
     adm-zip "^0.5.10"
     csv-parse "^5.3.6"
@@ -1489,10 +1489,10 @@ free-be-core-modules@^0.0.5:
     uuid "^9.0.0"
     xlsx "^0.18.5"
 
-free-be-core@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/free-be-core/-/free-be-core-0.0.6.tgz#965f1159065ebad4c56ae02835761a854e7e7a27"
-  integrity sha512-wJffiKXkX87W4SsDbALc3YJ2rYxLDs3uldSeDbj6Js3VRf7oXOwgbPscZamRMHzBs0mE2Y8obkD5aOK8x4pm+Q==
+free-be-core@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/free-be-core/-/free-be-core-0.0.7.tgz#850342c5b2bbf7ba8bfb24cd4aca03c8ec8cc9ba"
+  integrity sha512-woXETXzuKmsnWiGnWnU8gVqRhXiWwMtajIE3Neg9g1TyqIaumWxqpHRKaMw98BdfKu1fKeAbTQ5WQcyzNcnX2w==
   dependencies:
     cookie-parser "^1.4.6"
     helmet "^6.0.1"
@@ -1505,10 +1505,10 @@ free-be-demo@^0.0.2:
   resolved "https://registry.yarnpkg.com/free-be-demo/-/free-be-demo-0.0.2.tgz#259081301125a9545f266081331c4e2ed63e0f3c"
   integrity sha512-8sMuDxQPOLV7CpkTIaLam7+ecLEVSjRMucAutr60yZSAOiL4LhiNxK6/FTKb/LJNlW0Lj+UUQ4Oi8RlpK0N6iw==
 
-free-be-mongodb@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/free-be-mongodb/-/free-be-mongodb-0.0.3.tgz#339494dc19855911c27c2dba133da4805af37085"
-  integrity sha512-Zy55b1I5Xe4zxdlt2XsyVmBRaY8CVJUSmVvuuPruibUqY972gut6+4TV9+6Fqi0gz/KVoD+DAcWBnRM7ITURWw==
+free-be-mongodb@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/free-be-mongodb/-/free-be-mongodb-0.0.4.tgz#7c0830c978b153af76a8bee2dc617621241c9087"
+  integrity sha512-9qdKMsbdwxLLR5PVhP25re1EYoqNMILFYOn53egOE1hf47sbH55G2HP2MtVjMUlfv0tUjKEW9cEWz9gUhzt//A==
   dependencies:
     bluebird "^3.7.2"
     mongoose "^7.0.0"
