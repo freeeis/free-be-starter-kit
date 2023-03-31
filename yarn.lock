@@ -1456,10 +1456,10 @@ frac@~1.1.2:
   resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
   integrity sha512-w/XBfkibaTl3YDqASwfDUqkna4Z2p9cFSr1aHDt0WoMTECnRfBOv2WArlZILlqgWlmdIlALXGpM2AOhEk5W3IA==
 
-free-be-account@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.8.tgz#ee12538647b97fee529dd9cb68e5cbe7bcdb3b8a"
-  integrity sha512-jS5TYo9ufcKM3UOAdjJiGm+rbI5guWd86XBRTGyg/GAV+0IbK2ay72P8CSaKSPv/QTTRt1SPPjodKiL1/q5tSg==
+free-be-account@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.9.tgz#001ec4f1d354befdb3b6b110f39e81ac05da3b83"
+  integrity sha512-oI9zhPiP8dl93FtAEgY5KYlnNd4Q96byi/jcYgyAZJ5aj8ouYZRTtw5Q3XTfZcGeaCKI8w6lm/oWBbNCQ2Q3HA==
   dependencies:
     "@alicloud/pop-core" "^1.7.12"
     axios "^1.3.4"
@@ -1472,10 +1472,10 @@ free-be-account@^0.0.8:
     svg-captcha "^1.4.0"
     uuid "^8.3.2"
 
-free-be-core-modules@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/free-be-core-modules/-/free-be-core-modules-0.0.7.tgz#cf270526fa5ecb93d507197262d58ebdcc3a98b9"
-  integrity sha512-btnbcxgrIHlysTM7d7PEHv/6nGqegrRkh7R9DfyUxfd42NxaBdU7s2IcLU55ZxEqjk0SeSVA1Tp381305WMqgg==
+free-be-core-modules@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/free-be-core-modules/-/free-be-core-modules-0.0.8.tgz#514ca3838cb7e8a73bbf484f9b8c2ff53ceca2b0"
+  integrity sha512-H4GJptpS2aXJbstw5CA0wQQxTXU5yH1ZJsmdyrS35B21aVWzLH3APvshoszmNYkNbjGd4ohsVaSGdRJFiJTL4Q==
   dependencies:
     adm-zip "^0.5.10"
     csv-parse "^5.3.6"
