@@ -1456,10 +1456,10 @@ frac@~1.1.2:
   resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
   integrity sha512-w/XBfkibaTl3YDqASwfDUqkna4Z2p9cFSr1aHDt0WoMTECnRfBOv2WArlZILlqgWlmdIlALXGpM2AOhEk5W3IA==
 
-free-be-account@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.6.tgz#8bcf63dac2427aff86ffe88ffdbbf92a0c9ea2ee"
-  integrity sha512-Nk+aH5QjAiCGQ8iVjTTDNHAdm/U5ElccY+Hk17mm7rt43Ert3XdL3yx0LEr6RDkDCVLoQqZx6Gaay2mewYyN8g==
+free-be-account@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.7.tgz#2e8967656c18045757d5ad73ecb6f52259268297"
+  integrity sha512-R5g/tP9Up8JSqPR03RGorze/c9cvz4cAZxQg08LPnILrg2e0WxKUZnCUnsW8FtiDADAtL/rwHThdpevJHeKYaA==
   dependencies:
     "@alicloud/pop-core" "^1.7.12"
     axios "^1.3.4"
@@ -1505,10 +1505,10 @@ free-be-demo@^0.0.2:
   resolved "https://registry.yarnpkg.com/free-be-demo/-/free-be-demo-0.0.2.tgz#259081301125a9545f266081331c4e2ed63e0f3c"
   integrity sha512-8sMuDxQPOLV7CpkTIaLam7+ecLEVSjRMucAutr60yZSAOiL4LhiNxK6/FTKb/LJNlW0Lj+UUQ4Oi8RlpK0N6iw==
 
-free-be-mongodb@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/free-be-mongodb/-/free-be-mongodb-0.0.4.tgz#7c0830c978b153af76a8bee2dc617621241c9087"
-  integrity sha512-9qdKMsbdwxLLR5PVhP25re1EYoqNMILFYOn53egOE1hf47sbH55G2HP2MtVjMUlfv0tUjKEW9cEWz9gUhzt//A==
+free-be-mongodb@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/free-be-mongodb/-/free-be-mongodb-0.0.5.tgz#7575e16d982d76cbc0eb21b450a201929c0f34fa"
+  integrity sha512-ZsjpIY/BR/wVdKEahcph6OB6N6XMRKnw7subXECzAaS61O0vH8GOB5J6v+rhInUn95e2WuVgrO2H6mb71JMNSQ==
   dependencies:
     bluebird "^3.7.2"
     mongoose "^7.0.0"
