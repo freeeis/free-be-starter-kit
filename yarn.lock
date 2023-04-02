@@ -1456,10 +1456,10 @@ frac@~1.1.2:
   resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
   integrity sha512-w/XBfkibaTl3YDqASwfDUqkna4Z2p9cFSr1aHDt0WoMTECnRfBOv2WArlZILlqgWlmdIlALXGpM2AOhEk5W3IA==
 
-free-be-account@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.9.tgz#001ec4f1d354befdb3b6b110f39e81ac05da3b83"
-  integrity sha512-oI9zhPiP8dl93FtAEgY5KYlnNd4Q96byi/jcYgyAZJ5aj8ouYZRTtw5Q3XTfZcGeaCKI8w6lm/oWBbNCQ2Q3HA==
+free-be-account@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.10.tgz#273cd70940bda4003e14d9fd9d456f640c013dd9"
+  integrity sha512-1gk2PKfml74JFjvgUjA7vUyPyIQDnTlkc0HHVEggC/LVf46t48UyLLR1iY8fsHNkqSChzQihlmU04JDpSfymFg==
   dependencies:
     "@alicloud/pop-core" "^1.7.12"
     axios "^1.3.4"
@@ -1472,10 +1472,10 @@ free-be-account@^0.0.9:
     svg-captcha "^1.4.0"
     uuid "^8.3.2"
 
-free-be-core-modules@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/free-be-core-modules/-/free-be-core-modules-0.0.8.tgz#514ca3838cb7e8a73bbf484f9b8c2ff53ceca2b0"
-  integrity sha512-H4GJptpS2aXJbstw5CA0wQQxTXU5yH1ZJsmdyrS35B21aVWzLH3APvshoszmNYkNbjGd4ohsVaSGdRJFiJTL4Q==
+free-be-core-modules@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/free-be-core-modules/-/free-be-core-modules-0.0.9.tgz#60e881e2c07427aa5ed98e3811c7f9883fe3aa8b"
+  integrity sha512-B+cETR5WB67XBNaQ6JEAuypT0R73nU5p4nxWfS+9O9h3K+eBcT9RyvkrPoF4MJUrDcLP722WZk5Zwon7SaJQUg==
   dependencies:
     adm-zip "^0.5.10"
     csv-parse "^5.3.6"
@@ -1505,10 +1505,10 @@ free-be-demo@^0.0.3:
   resolved "https://registry.yarnpkg.com/free-be-demo/-/free-be-demo-0.0.3.tgz#c0a4ee8001c508afcba9e8cbc09f0c265ef1021f"
   integrity sha512-QGB2ZpC2Dlkwu43LXEFKyi4/EQmUXAW+ltdZ9p0JP6+60pkIHp+R3rp2jDCgW+D2MzSl3cpkRdbtyyUpDC1tjw==
 
-free-be-mongodb@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/free-be-mongodb/-/free-be-mongodb-0.0.5.tgz#7575e16d982d76cbc0eb21b450a201929c0f34fa"
-  integrity sha512-ZsjpIY/BR/wVdKEahcph6OB6N6XMRKnw7subXECzAaS61O0vH8GOB5J6v+rhInUn95e2WuVgrO2H6mb71JMNSQ==
+free-be-mongodb@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/free-be-mongodb/-/free-be-mongodb-0.0.6.tgz#090f61974b15b64c9914a5fc0f4750220e6b49b1"
+  integrity sha512-W86/HtkGBGZ+mHWtwNK3QjlzYuXj9+/kM43HEfyuWGiHG2I0lJnGrZ7PdtFdLzPTi2iMNfyVgkXSqlahs+/qdQ==
   dependencies:
     bluebird "^3.7.2"
     mongoose "^7.0.0"
