@@ -1456,10 +1456,10 @@ frac@~1.1.2:
   resolved "https://registry.yarnpkg.com/frac/-/frac-1.1.2.tgz#3d74f7f6478c88a1b5020306d747dc6313c74d0b"
   integrity sha512-w/XBfkibaTl3YDqASwfDUqkna4Z2p9cFSr1aHDt0WoMTECnRfBOv2WArlZILlqgWlmdIlALXGpM2AOhEk5W3IA==
 
-free-be-account@^0.0.12:
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.12.tgz#1a642715059f8f8490ca5c17c405f602b5ad6c44"
-  integrity sha512-0EYNKPNCN4T7A4PGQkpmEOugv83VjFpwd3TAoU2Y+pGNEt1N+STBAsDpMnlMLV+solVIxic3cUWtq9Z9m7wppw==
+free-be-account@^0.0.13:
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/free-be-account/-/free-be-account-0.0.13.tgz#d520d3d0d4af95176d6eb14e279a4095acd022b6"
+  integrity sha512-9LHWylehef04qG8V+VduRyg+POrCHURBw77XyWnu+weG+A9DRXD/FIbPu1aaiXaAVuSp6m/WgvCRDS626/66/g==
   dependencies:
     "@alicloud/pop-core" "^1.7.12"
     axios "^1.3.5"
