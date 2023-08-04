@@ -25,6 +25,7 @@ module.exports = {
     // other global configurations.
     baseUrl: '/api',
     bodySizeLimit: '10mb',
+    uploadFileSizeLimit: 10 * 1024 * 1024,
     staticFolders: [path.join(__dirname, "../public/uploads")],
     ImageThumbWidth: 300,
     assetsUrlPrefix: '/assets',
